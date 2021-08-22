@@ -15,7 +15,7 @@ git clone https://github.com/kaleblub/pygame-pong.git
 ## Usage
 To run the game, mv into the pygame-pong directory, and use
 ```bash
-python3 yahtzee.py
+python3 pong.py
 ```
 
 ## Other
